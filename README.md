@@ -5,7 +5,7 @@
 Keywords: NLI, BERT, Pretrained model, Fine tuning
 
 
-# - 자료 구조
+### - 자료 구조
 
 한국어문장분류공모전:  
 │  FolderStructure.txt  
