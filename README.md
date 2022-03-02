@@ -11,7 +11,7 @@ Keywords: NLI, BERT, Pretrained model, Fine tuning
 │  FolderStructure.txt  
 │  
 ├─CODE  
-|      DatasetMakingProcess.ipynb  
+│      DatasetMakingProcess.ipynb  
 │      Ensemble.ipynb  
 │      RoBERTa-large.ipynb  
 │      TPU_BERT-base.ipynb  
